@@ -40,4 +40,4 @@ Contributions are always welcome!
 Inspired by real-world ML workflows
 Visualization powered by Matplotlib & Seaborn
 
-📢 Author - Created by Nithma Fernando
+📢 Author - by Nithma Fernando
